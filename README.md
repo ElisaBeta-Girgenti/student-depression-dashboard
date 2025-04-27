@@ -12,8 +12,8 @@ I used **Tableau** for dashboards and **SQL** for data exploration.
 ---
 
 ## 🔗 Live Links
-- [🔵 View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/m.s2648/viz/StudentDepressionAnalysis/Story1)
-- [🟠 View SQL Queries](https://github.com/ms2648/student-depression-dashboard/tree/main/sql)
+- [🔵 View Interactive Tableau Dashboard](https://public.tableau.com/views/DepressionandStudents/ByGenderAcademicPression?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [🟠 View SQL Queries](https://github.com/ElisaBeta-Girgenti/student-depression-dashboard)
 
 ---
 
